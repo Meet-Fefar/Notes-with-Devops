@@ -1,2 +1,3 @@
 venv/
 note-app/website/__pycache__
+note-app/website/database.db
